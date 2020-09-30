@@ -1,0 +1,10 @@
+frmCreateAccount = 130, 130, 582, 563, , 26, 26, 1076, 481, C
+MDIMain = 130, 130, 582, 563, , 52, 52, 504, 498, C
+frmGenerateReport = 156, 156, 608, 589, , 78, 78, 530, 511, C
+frmPrint = 130, 130, 1251, 555, , 104, 104, 556, 537, C
+AccountRepository = 26, 26, 478, 459, 
+CustomerDetails = 26, 26, 617, 415, 
+ReportRepository = 156, 156, 1214, 574, 
+frmLogin = 26, 26, 1034, 481, , 208, 208, 1216, 663, C
+LoginRepository = 0, 0, 1008, 455, 
+Login = 52, 52, 1060, 507, 
